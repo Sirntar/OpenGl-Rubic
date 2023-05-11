@@ -4,5 +4,3 @@ debug
 .vscode
 cmake-build-debug
 cmake-build-release
-lib/glfw
-lib/glm
